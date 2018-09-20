@@ -1,0 +1,68 @@
+.body{
+    margin:0px;
+    padding:0px;
+}
+.logoIcon1{
+    color:orangered;
+    font-size: 60px;
+   margin-left: 0px;
+    float:left;
+}
+ .logoTop1{
+     margin-top:-5px;
+    margin-left:0px;
+    font-size: 15px;
+    font-weight: bold;
+    color:orangered;
+   /*  position: absolute;
+    top:-10%;
+    left:10%; */
+    float:left;
+    line-height: 25px;
+    
+}
+.logo{
+    padding-top:54px;
+}
+.contact{
+    padding-bottom: 30px;
+    background-color:#003366; 
+}
+.address{
+    color:white;
+    padding-top:20px;
+    margin-left:0px;
+}
+.firstColumn{
+    font-size:13px;
+    padding-left:100px;
+    float:left;
+    padding-right:50px;
+}
+.contactAdd{
+    padding-top: 20px;
+}
+.fa-phone{
+   color:#BF9700; 
+}
+.email{
+    color:#4BE4E2;
+}
+
+.website{
+    color:orangered;
+}
+.secondColumn{
+    padding-top:20px;
+    float:left;
+    color:white;
+    font-size:13px;
+    padding-left:20px;
+}
+.thirdColumn,.fourthColumn{
+    padding-top:31.5px;
+    float:left;
+    color:white;
+    font-size:13px;
+    padding-left:40px;
+}
